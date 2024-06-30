@@ -1,1 +1,2 @@
-# Top-1000-YouTubers-EDA
+# All my Exploratory Data Analysis Projects on Python
+
